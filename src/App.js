@@ -28,6 +28,7 @@ function App() {
           <Gallery></Gallery>
           <About></About>
         </div>
+
       </main>
     </div>
   );
